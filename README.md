@@ -26,6 +26,8 @@ Projects completed as assigned by my mentor.
 
 - [`MultiEmbed`](https://github.com/melos-simeneh/MultiEmbed)  
   🤖 Extracts image and text embeddings using pretrained CNNs and transformers, enabling joint multimodal similarity comparison.
+- [`prompt2video`](https://github.com/melos-simeneh/prompt2video)  
+  🎬 Converts sketch and text inputs into videos using Stable Diffusion, LoRA, and ControlNet.
 
 ## 📌 About
 
