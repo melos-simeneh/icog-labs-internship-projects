@@ -17,6 +17,8 @@ Completed projects showcasing applied skills and concepts from the training sess
 
 - [`tomato-disease-classifier`](https://github.com/melos-simeneh/tomato-disease-classifier)  
   🌿 Used CNN to classify tomato leaf diseases from the PlantVillage dataset, with CLIP-based filtering and multi-class classification.
+- [`fp-state-manager`](https://github.com/melos-simeneh/fp-state-manager)  
+  🛠️  Implemented a functional state management system using core principles of functional programming.
 
 ## 🤝 Mentor Tasks
 
